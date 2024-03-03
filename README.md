@@ -19,4 +19,4 @@ TBD
 ## Creditos
 
 FaithTech Sao Paulo, Brasil.
-Time neste projeto: JV & EGSF.
+Time neste projeto: JV & PA.
